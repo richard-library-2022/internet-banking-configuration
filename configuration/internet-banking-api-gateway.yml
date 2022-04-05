@@ -16,7 +16,7 @@ spring:
             client-id: internet-banking-core-client
             client-secret: PGpypaCX6IP45LDLvdSKzqqyKix6xqG9
             authorization-grant-type: authorization_code
-            redirect-uri: http://localhost:8010/login/oauth2/code/keycloak
+            redirect-uri: http://192.168.1.9:8010/login/oauth2/code/keycloak
             scope: openid
       resourceserver:
         jwt:
