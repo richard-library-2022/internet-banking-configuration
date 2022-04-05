@@ -1,2 +1,2 @@
-# internet-banking-configuration
+# Internet Banking Configuration
 Internet Banking Configuration
